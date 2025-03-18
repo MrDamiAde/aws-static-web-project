@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, I created a static web app using HTML, CSS and Javascript and then deployed and hosted it on Amazon S3.
+In this project, I built a static web app using HTML, CSS and JavaScript. I then deployed and hosted it on Amazon S3.
 
 ---
 
@@ -29,9 +29,9 @@ In this project, I created a static web app using HTML, CSS and Javascript and t
 
 ### Step 1: Project Initialisation
 
-- I began by creating a project directory on my local machine to hold all the project files called "web-app-project"
-- In this same directory, I created the following files and added the relevant data: ```index.html```, ```style.css``` and ```script.js```.
-- I used Visual Studio Code editor to edit these files
+- I began by creating a project directory on my local machine to hold all the project files called "web-app-project."
+- In this same directory, I created the following files: ```index.html```, ```style.css``` and ```script.js```.
+- I used Visual Studio Code editor to edit these files.
      
 ### Step 2: HTML Structure
 
@@ -43,12 +43,12 @@ In this project, I created a static web app using HTML, CSS and Javascript and t
 ### Step 3: Styling with CSS
 
 - I created the ```style.css``` file to give the heading and footer a light blue background and white font
-- Also gave the click me button a green colour which changes on hover
+- I also gave the "Click Me" button a green colour which changes on hover.
   
 
 ### Step 4: Adding JavaScript
 
-- I then created a script.js file that allows visitors to interact with the "Click Me" button
+- I created a script.js file that allows visitors to interact with the "Click Me" button
 - Once clicked, a JS event listener triggers an alert with "Hello, you clicked the button!"
 
 ---
@@ -89,11 +89,11 @@ In this project, I created a static web app using HTML, CSS and Javascript and t
 
 ### Step 4: Testing and Verifying Deployment
 
-- After deploying the project to S3, i tested it by copying the URL provided in the "Static Website Hosting" section of the bucket properties. I then pasted it into a browser.
+- After deploying the project to S3, I tested it by copying the URL provided in the "Static Website Hosting" section of the bucket properties. I then pasted it into a web browser and succesfull accessed the web app as shown below:
 ![Screenshot 2025-03-18 155813](https://github.com/user-attachments/assets/50313cb0-aa74-47e4-a5ef-d9d1fe7ef4ef)
 
 ---
 
 ## Conclusion
 
-This was a simple project to demonstrate my confidence with HTML, CSS and Javascript to create the web app and deploy and host it on Amazon S3. I learned the importance of structuring the files on S£ correctly, as I couldn't access the web app initially because the index.html file wasn't at the root of my S3 Bucket. Once I moved it to the root, I could then access the web app succesfully.
+This was a simple project to demonstrate my confidence with HTML, CSS and Javascript to create the web app and deploy and host it on Amazon S3. I learned the importance of structuring the files on S£ correctly, as I couldn't access the web app initially because the index.html file wasn't at the root of my S3 Bucket. Once I moved it to the root, I could then access the web app successfully.
