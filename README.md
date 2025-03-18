@@ -90,9 +90,10 @@ In this project, I created a static web app using HTML, CSS and Javascript and t
 ### Step 4: Testing and Verifying Deployment
 
 - After deploying the project to S3, i tested it by copying the URL provided in the "Static Website Hosting" section of the bucket properties. I then pasted it into a browser.
+![Screenshot 2025-03-18 155813](https://github.com/user-attachments/assets/50313cb0-aa74-47e4-a5ef-d9d1fe7ef4ef)
 
 ---
 
 ## Conclusion
 
-This was a simple project to demonstrate my ability to deploy a basic static web app on an Amazon S3 bucket.I learned the importance of structuring the files correctly, as I couldn't access the web app initially because the index.html file wasn't at the root of my S3 Bucket. Once I moved it to the root, i could then access the web app via the URL succesfully.
+This was a simple project to demonstrate my confidence with HTML, CSS and Javascript to create the web app and deploy and host it on Amazon S3. I learned the importance of structuring the files on S£ correctly, as I couldn't access the web app initially because the index.html file wasn't at the root of my S3 Bucket. Once I moved it to the root, I could then access the web app succesfully.
