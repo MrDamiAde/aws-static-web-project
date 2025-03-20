@@ -8,10 +8,10 @@ In this project, I built a static web app using HTML, CSS and JavaScript. I then
 
 ## Technologies Used
 
-- **HTML**: Created the structure and content of the web app.
-- **CSS**: Styled the app to make it look more appealing.
-- **JavaScript**: Added interactivity to a button that triggers an alert.
-- **Amazon S3**: Stored and hosted the web app.
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Amazon S3**
 
 ---
 
